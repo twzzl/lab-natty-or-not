@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Espaçoporto em IO
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei uma imagem de um espaçoporto e IO para usar em um jogo de RPG que participo
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Image creator do copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+utilizei o prompt: Map of the spaceport on Jupiter's moon IO
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Apresente os resultados do seu projeto](https://copilot.microsoft.com/images/create/map-of-the-spaceport-on-jupiter27s-moon-io/1-66a1731b030b45409fc51daefe852e5b?id=PEMcb9BdVzSS2YNA3Szb%2bg%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.ryEiZJmD3KsTNqsnIV5Y&skey=EUkCtZnXl9m_b-TPVRJGsaPEqHlpemqvUx4RSaNKrv0&FORM=GCRIDP&mode=overlay)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
 ```
 
 ### Exemplos e Insigths
